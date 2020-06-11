@@ -1,0 +1,15 @@
+<extension>
+    <modules>
+        <module>
+            <id>Theme Demo Extension for Head to include favicon</id>
+            <version>1.0</version>
+            <auto-deploy>true</auto-deploy>
+            <customizations>
+                <customization>
+                    <targetPackageRoot>org.alfresco.components.head</targetPackageRoot>
+                    <sourcePackageRoot>com.github.abhinavmishra14.demo.head.template</sourcePackageRoot>
+                </customization>
+            </customizations>
+        </module>
+    </modules>
+</extension>

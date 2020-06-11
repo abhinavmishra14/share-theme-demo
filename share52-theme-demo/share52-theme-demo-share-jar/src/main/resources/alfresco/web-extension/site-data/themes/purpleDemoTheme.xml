@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<theme>
+   <title>Demo Purple Theme</title>
+   <title-id>theme.purpleDemoTheme</title-id>
+   <css-tokens>
+      <less-variables>
+	     @header-background-color: #A020F0;         <!-- Purple -->
+         @header-font-color: yellow;
+         @header-hover-background-color: #92c15f;   <!-- Purple candy -->
+         @header-hover-font-color: #ccc;
+         @header-focus-background-color: #8A2BE2;
+         @header-focus-font-color: red;
+         @header-menubar-font-color: yellow;
+         @header-dropdown-menu-font-color: yellow;
+
+         @dashlet-background: #fff;
+         @dashlet-border: 1px solid #bababa;
+         @dashlet-border-radius: 0;
+         @dashlet-title-background: #92c15f linear-gradient(to bottom, #a3d07a, #92c15f);
+         @dashlet-title-border-bottom: 0;
+         @dashlet-title-border-radius: 0;
+         @dashlet-title-color: #fff;
+         @dashlet-toolbar-background: #A020F0;
+         @dashlet-toolbar-border-bottom: 1px solid #d3d3d3;
+         @dashlet-body-background: #f9fcfd;
+         @dashlet-body-border-radius: 0;
+      </less-variables>
+   </css-tokens>
+</theme>

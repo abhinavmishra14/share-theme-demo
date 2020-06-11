@@ -1,0 +1,7 @@
+/target
+/.classpath
+/.project
+/.settings
+/*.log*
+/alf_data_dev/
+/.bpmn/
