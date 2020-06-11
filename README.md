@@ -5,7 +5,19 @@ This project includes demo share theme projects on ACS 5.2.x and ACS 6.2.x. It c
 
 - Sample Themes:
   - Demo Light Theme  (created by taking reference from ootb Light Theme)
+    <p align="center">
+       <br/>
+       <img src="screenshots/DemoLightThemeLoginPageLogo.png" width="350" height="350" title="Login page sample logo">
+       <img src="screenshots/DemoLightTheme.png" width="300" height="300" title="Light theme">
+       <br/>
+    </p>
   - Demo Purple Theme (created by taking reference from ootb Green Theme)
+    <p align="center">
+       <br/>
+       <img src="screenshots/DemoPurpleThemeLoginPageLogo.png" width="350" height="350" title="Login page sample logo">
+       <img src="screenshots/DemoPurpleTheme.png" width="300" height="300" title="Purple theme">
+       <br/>
+    </p>
 
 
 #### References:
