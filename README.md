@@ -29,9 +29,3 @@ This project includes demo share theme projects on ACS 5.2.x and ACS 6.2.x. It c
 - ACS 5.2.x
   - https://docs.alfresco.com/5.2/concepts/dev-extensions-share-themes.html
   - https://docs.alfresco.com/5.2/tasks/dev-extensions-share-tutorials-add-theme.html
-  
- 
-#### You may also consider this theme builder tool. It is very nice tool to generate share themes. You get the amp package via email, all you need to do is to apply the amp on share.war file.
- 
- - Theme Builder:
-   - https://flex-solution.com/theme/#
