@@ -9,6 +9,18 @@
                     <targetPackageRoot>org.alfresco.components.head</targetPackageRoot>
                     <sourcePackageRoot>com.github.abhinavmishra14.demo.head.template</sourcePackageRoot>
                 </customization>
+				
+				<!-- Disable dynamic welcome dashlet for all users -->				
+				<customization>
+		           <targetPackageRoot>org.alfresco.components.dashlets</targetPackageRoot>
+		           <sourcePackageRoot>com.github.abhinavmishra14.demo.components.dashlets</sourcePackageRoot>
+				</customization>
+				
+				<!-- Use custom logo for quick share page -->				
+				<customization>
+		           <targetPackageRoot>org.alfresco.components.quickshare</targetPackageRoot>
+		           <sourcePackageRoot>com.github.abhinavmishra14.demo.components.quickshare</sourcePackageRoot>
+				</customization>
             </customizations>
         </module>
     </modules>
